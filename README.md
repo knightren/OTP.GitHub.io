@@ -33,11 +33,11 @@ Internet给所有的学生，无论是成人还是儿童，提供了充分的学
 
 ### [初中英语](https://github.com/knightren/edutalk.GitHub.io/wiki/初中英语)
 ***
-- 语法专题(https://github.com/knightren/edutalk.GitHub.io/wiki/语法专题)
-- 词汇专题(https://github.com/knightren/edutalk.GitHub.io/wiki/词汇专题)
-- 阅读专题(https://github.com/knightren/edutalk.GitHub.io/wiki/数与代数)
-- 写作专题(https://github.com/knightren/edutalk.GitHub.io/wiki/数与代数)
-- 课外阅读(https://github.com/knightren/edutalk.GitHub.io/wiki/数与代数)
+- [语法专题](https://github.com/knightren/edutalk.GitHub.io/wiki/语法专题)
+- [词汇专题](https://github.com/knightren/edutalk.GitHub.io/wiki/词汇专题)
+- [阅读专题](https://github.com/knightren/edutalk.GitHub.io/wiki/数与代数)
+- [写作专题](https://github.com/knightren/edutalk.GitHub.io/wiki/数与代数)
+- [课外阅读](https://github.com/knightren/edutalk.GitHub.io/wiki/数与代数)
 
 ### [科学启蒙](https://github.com/knightren/edutalk.GitHub.io/wiki/科学启蒙)
 ***
