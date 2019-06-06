@@ -15,11 +15,11 @@ Internet给所有的学生，无论是成人还是儿童，提供了充分的学
 
 ***
 ## [初中语文](https://github.com/knightren/edutalk.GitHub.io/wiki/初中语文)
-### [古诗词专题](https://github.com/knightren/edutalk.GitHub.io/wiki/古诗词专题)
-### [文言文专题](https://github.com/knightren/edutalk.GitHub.io/wiki/文言文专题)
-### [阅读理解专题](https://github.com/knightren/edutalk.GitHub.io/wiki/阅读理解专题)
-### [作文专题](https://github.com/knightren/edutalk.GitHub.io/wiki/作文专题)
-### [经典阅读](https://github.com/knightren/edutalk.GitHub.io/wiki/经典阅读)
+- [古诗词专题](https://github.com/knightren/edutalk.GitHub.io/wiki/古诗词专题)
+- [文言文专题](https://github.com/knightren/edutalk.GitHub.io/wiki/文言文专题)
+- [阅读理解专题](https://github.com/knightren/edutalk.GitHub.io/wiki/阅读理解专题)
+- [作文专题](https://github.com/knightren/edutalk.GitHub.io/wiki/作文专题)
+- [经典阅读](https://github.com/knightren/edutalk.GitHub.io/wiki/经典阅读)
 
 ***
 
